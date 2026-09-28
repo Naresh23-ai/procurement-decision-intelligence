@@ -899,4 +899,4 @@ elif nav=="Architecture":
         st.markdown("### Audit boundary")
         st.write("Criteria policy, run identity, supplier results, criterion results, exported JSON.")
 
-st.markdown('<div class="footer-note">Procurement Decision Intelligence · governed supplier evaluation platform</div>',unsafe_allow_html=True)
+st.markdown('<div class="footer-note">Procurement Decision Intelligence · governed supplier evaluation platform<br>Copyright © 2026 Kavali Naresh Kumar. All rights reserved.</div>',unsafe_allow_html=True)

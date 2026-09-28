@@ -73,3 +73,12 @@ Do not commit API keys.
 Final deterministic ordering:
 
 `PPI DESC → submission date ASC → experience DESC → supplier name ASC`
+
+
+## Copyright and License
+
+Copyright © 2026 Kavali Naresh Kumar. All rights reserved.
+
+This project is provided for academic evaluation and portfolio demonstration. No permission is granted to reproduce, modify, distribute, sublicense, or commercially use the project without prior written permission.
+
+See `LICENSE` for the full notice.
